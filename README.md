@@ -1,2 +1,6 @@
 # Blocky3D
-Created with CodeSandbox
+
+
+Jayden Sangha
+
+Jsangha1@ucsc.edu
